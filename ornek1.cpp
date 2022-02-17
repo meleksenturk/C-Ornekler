@@ -1,7 +1,6 @@
-//Kullanýcý tarafýndan girilen bir karakter
+//Kullanici tarafindan girilen bir karakter
 //dizisindeki (karakter dizisinde en fazla 100 karakter
-//olabilir) sesli ve sessiz harflerin sayýsýný bulacak bir
-//uygulamayý C programlama dili ile geliþtiriniz.
+//olabilir) sesli ve sessiz harflerin sayisini bulacak kodu yaziniz.
 
 
 #include<stdio.h>
